@@ -25,7 +25,7 @@ const Projects = () => {
         <ProjectCard
           src="/qwip.png"
           title="Qwip"
-          description={`An ultimate fleet management solution created to bridge the gap between NEMT brokers and patients, ensuring every trip is a smooth journ`}
+          description={`An ultimate fleet management solution created to bridge the gap between NEMT brokers and patients, ensuring every trip is a smooth journey`}
         />
         <ProjectCard
           src="/fave.png"
