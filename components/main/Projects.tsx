@@ -28,6 +28,11 @@ const Projects = () => {
           description={`An ultimate fleet management solution created to bridge the gap between NEMT brokers and patients, ensuring every trip is a smooth journ`}
         />
         <ProjectCard
+          src="/fave.png"
+          title="Fave Accounting"
+          description={`One stop shop for managing business finance`}
+        />
+        <ProjectCard
           src="/NextWebsite.png"
           title="Modern Next.js Portfolio"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -41,6 +46,27 @@ const Projects = () => {
           src="/SpaceWebsite.png"
           title="Space Themed Website"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        />
+        <ProjectCard
+          src="/exchanger2.png"
+          title="Exchanger"
+          description="Quickly Convert and send money. Experience the ease of seamless cross-border payments"
+        />
+        <ProjectCard
+          src="/enum.png"
+          title="Enum Africa"
+          description="Hire top talent and effectively manage online training as an organization. Learn in-demand skills and find better jobs as an individual."
+        />
+        <ProjectCard
+          src="/zurifx.png"
+          title="Zuri FX"
+          description="ZuriFX offers more than a trading platform. it's a commitment to a seamless, enriching Forex journey tailored for seasoned traders and newcomers."
+        />
+
+        <ProjectCard
+          src="/myfi.png"
+          title="Myfi"
+          description="Track all your transactions in one place with MyFi"
         />
       </div>
     </div>
